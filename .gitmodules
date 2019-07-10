@@ -37,3 +37,6 @@
 [submodule "redis"]
 	path = redis
 	url = https://github.com/antirez/redis.git
+[submodule "cairo"]
+	path = cairo
+	url = git://anongit.freedesktop.org/git/cairo
